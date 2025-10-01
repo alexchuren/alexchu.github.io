@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Alex Chu&#39;s blog</title>
     <link>https://alexchu.xyz/ja/tags/</link>
-    <description>Recent content from My New Hugo Site</description>
+    <description>Recent content from Alex Chu&#39;s blog</description>
     <generator>Hugo</generator>
     <language>ja</language>
     
-    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
-    <webMaster>xxx@example.com (D-Sketon)</webMaster>
+    <managingEditor>akanezero@outlook.com (Alex Chu)</managingEditor>
+    <webMaster>akanezero@outlook.com (Alex Chu)</webMaster>
     
     <copyright>本ブログのすべての文書は、特に指定されていない限り、BY-NC-SAライセンスに従っています。引用の際は出典を明記してください！</copyright>
     

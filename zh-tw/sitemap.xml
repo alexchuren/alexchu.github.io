@@ -2,28 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alexchu.xyz/zh-tw/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://alexchu.xyz/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexchu.xyz/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://alexchu.xyz/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://alexchu.xyz/zh-tw/categories/"
-                />
-  </url><url>
     <loc>https://alexchu.xyz/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
@@ -44,6 +22,28 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://alexchu.xyz/zh-tw/"
+                />
+  </url><url>
+    <loc>https://alexchu.xyz/zh-tw/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://alexchu.xyz/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexchu.xyz/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://alexchu.xyz/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://alexchu.xyz/zh-tw/categories/"
                 />
   </url><url>
     <loc>https://alexchu.xyz/zh-tw/tags/</loc>
